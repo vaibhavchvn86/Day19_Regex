@@ -1,0 +1,14 @@
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.AssemblyInfoInputs.cache
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.AssemblyInfo.cs
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.exe
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.deps.json
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.runtimeconfig.json
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.runtimeconfig.dev.json
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.dll
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\bin\Debug\netcoreapp3.1\Day19_Regex_PP1.pdb
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.dll
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.pdb
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.genruntimeconfig.cache
+C:\Users\vaibh\source\repos\Day19_Regex_PP1\Day19_Regex_PP1\obj\Debug\netcoreapp3.1\Day19_Regex_PP1.csproj.AssemblyReference.cache
