@@ -1,0 +1,16 @@
+sample for merge conflict
+check 1
+check 2
+check 3
+sample for merge conflict
+check 1
+check 2
+check 3
+sample for merge conflict
+check 1
+check 2
+check 3
+sample for merge conflict
+check 1
+check 2
+check 3
